@@ -1,0 +1,10 @@
+{
+  "name": "StopWar",
+  "symbol": "STW",
+  "description": "Token for promoting World Peace.",
+  "image": "https://raw.githubusercontent.com/STW-StopWar/STW-metadata/refs/heads/main/logo.png",
+  "external_url": "https://joinstopwar.org",
+  "twitter": "OfficialStopWar",
+  "decimals": 6,
+  "tags": ["peace", "humanitarian", "social"]
+}
